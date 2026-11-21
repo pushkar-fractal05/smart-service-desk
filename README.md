@@ -48,7 +48,6 @@ smart-service-desk/
    ```bash
    python main.py
    ```
-   On some systems, use `python3 main.py`.
 
 No third-party packages are required.
 
