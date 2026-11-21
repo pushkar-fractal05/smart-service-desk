@@ -1,0 +1,16 @@
+[
+    {
+        "request_id": "SR101",
+        "employee_name": "Pushkar",
+        "issue": "Laptop is not starting",
+        "priority": "HIGH",
+        "status": "RESOLVED"
+    },
+    {
+        "request_id": "SR102",
+        "employee_name": "Anshi",
+        "issue": "Need a software access",
+        "priority": "MEDIUM",
+        "status": "OPEN"
+    }
+]
